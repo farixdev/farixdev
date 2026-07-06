@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:8b5cf6&height=220&section=header&text=Faris%20Ahmad&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web%20%26%20Application%20Developer%20%7C%20MERN%20%7C%20Python%20Automation&descAlignY=56&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:8b5cf6&height=220&section=header&text=Faris%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:8b5cf6&height=220&section=header&text=Faris%20Ahmad&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web%20%26%20Application%20Developer%20%7C%20MERN%20%7C%20Python%20Automation&descAlignY=56&descSize=16" width="100%"/>
 
 <a href="https://farixdev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Web+%26+App+Developer;MERN+Stack+Engineer;WordPress+%26+Shopify+Developer;Python+Automation+Developer;Cross-Platform+App+Builder" alt="Typing SVG"/>
@@ -15,7 +15,7 @@
 
 <a href="https://farixdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:farixdev@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:farisxdev@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/farixdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -139,11 +139,11 @@ Full lifecycle delivery: requirements &rarr; design &rarr; build &rarr; client s
 </details>
 
 <details>
-<summary><b>&#128241; [Add a real project here]</b></summary>
+<summary><b>&#128241; [Optional: add a third real project]</b></summary>
 
 <br/>
 
-`Replace this block with a genuine project — e.g. a MERN app, a Flutter app, or a portfolio build. Do not leave placeholder content live.`
+`Replace this block with a genuine project — e.g. a MERN app, a Flutter app, or the portfolio build itself. Delete the block if unused; do not leave placeholder content live.`
 
 | Attribute | Detail |
 | :--- | :--- |
@@ -222,10 +222,10 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-8b5cf6?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR-USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/HackerRank-4f46e5?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR-USERNAME"><img src="https://img.shields.io/badge/CodeChef-7c3aed?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR-LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-8b5cf6?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR-GFG/"><img src="https://img.shields.io/badge/GeeksforGeeks-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/YOUR-HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-4f46e5?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/YOUR-CODECHEF"><img src="https://img.shields.io/badge/CodeChef-7c3aed?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -301,7 +301,7 @@ Faris Ahmad:
 
 <div align="center">
 
-<a href="mailto:farixdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:farisxdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/farixdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://farixdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>

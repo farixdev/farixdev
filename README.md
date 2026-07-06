@@ -202,21 +202,6 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 ---
 
-## &#128220; Certifications
-
-**Adobe**
-
-<img src="https://img.shields.io/badge/Adobe_Photoshop-Advanced_Photo_Editing_&_Design-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-
-`HOP · 2020`
-
-**Fast Web Solutions**
-
-<img src="https://img.shields.io/badge/WordPress_Web_Development-Beginner_to_Advanced-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
-`Fast Web Solutions · 2022`
-
----
 
 ## &#128187; Coding Profiles
 
@@ -246,15 +231,6 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 ---
 
-## &#127942; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=farixdev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
----
 
 ## &#128200; Contribution Activity
 

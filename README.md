@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:8b5cf6&height=220&section=header&text=Faris%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Web%20%26%20Application%20Developer%20%7C%20MERN%20%7C%20Python%20Automation&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:8b5cf6&height=220&section=header&text=Faris%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://farixdev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Web+%26+App+Developer;MERN+Stack+Engineer;WordPress+%26+Shopify+Developer;Python+Automation+Developer;Cross-Platform+App+Builder" alt="Typing SVG"/>

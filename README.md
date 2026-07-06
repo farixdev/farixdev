@@ -15,14 +15,14 @@
 
 <a href="https://farixdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:farisxdev@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/farisxdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:farixdev@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/farixdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=farisxdev&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/farisxdev?style=for-the-badge&color=6366f1&labelColor=1a1a2e&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/farisxdev?style=for-the-badge&color=4f46e5&labelColor=1a1a2e&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=farixdev&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/farixdev?style=for-the-badge&color=6366f1&labelColor=1a1a2e&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/farixdev?style=for-the-badge&color=4f46e5&labelColor=1a1a2e&label=STARS"/>
 
 </div>
 
@@ -235,12 +235,12 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farisxdev&show_icons=true&count_private=true&theme=react&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farisxdev&theme=react&background=0d1117&border=8b5cf6&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&sideLabels=6366f1&dates=8b949e&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farixdev&show_icons=true&count_private=true&theme=react&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farixdev&theme=react&background=0d1117&border=8b5cf6&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&sideLabels=6366f1&dates=8b949e&hide_border=true" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisxdev&layout=compact&langs_count=8&theme=react&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farixdev&layout=compact&langs_count=8&theme=react&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="180"/>
 
 </div>
 
@@ -250,7 +250,7 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=farisxdev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=farixdev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -260,7 +260,7 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farisxdev&theme=react-dark&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farixdev&theme=react-dark&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -270,7 +270,7 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/farisxdev/farisxdev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/farixdev/farixdev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -301,9 +301,9 @@ Faris Ahmad:
 
 <div align="center">
 
-<a href="mailto:farisxdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:farixdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/farisxdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/farixdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://farixdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>

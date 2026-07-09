@@ -6,12 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Web+%26+App+Developer;MERN+Stack+Engineer;WordPress+%26+Shopify+Developer;Python+Automation+Developer;Cross-Platform+App+Builder" alt="Typing SVG"/>
 </a>
 
-<br/>
 
-<img src="https://img.shields.io/badge/B.S._Software_Engineering-Superior_University-6366f1?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lahore,_Pakistan-4f46e5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
 
 <a href="https://farixdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

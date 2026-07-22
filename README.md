@@ -153,32 +153,7 @@ Full lifecycle delivery: requirements &rarr; design &rarr; build &rarr; client s
 
 ---
 
-## &#128188; Experience
 
-### Python Automation Developer &mdash; MindCob
-`Jun 2025 – 2026` &bull; On-site
-
-Built custom Python automation tooling to eliminate manual, repetitive internal operations and replace them with maintainable, production-grade software.
-
-- Developed automation tools that removed hours of manual employee effort from routine office tasks
-- Built web-scraping solutions to automatically collect and process data from online sources
-- Delivered polished, tailored software for internal operations — maintainable tools, not one-off scripts
-
-`Python` `Selenium` `BeautifulSoup` `Automation` `Web Scraping`
-
-<br/>
-
-### WordPress & Shopify Developer &mdash; Fast Web Solutions
-`Jan 2022 – Dec 2024` &bull; On-site / Remote
-
-Built and delivered responsive WordPress and Shopify websites, including full e-commerce stores, while owning direct client relationships.
-
-- Delivered multiple e-commerce stores with product listings, payment integration, and custom themes
-- Managed direct client communication — requirements gathering, progress updates, and feedback resolution to final approval
-
-`WordPress` `Shopify` `WooCommerce` `Elementor` `Client Delivery`
-
----
 
 ## &#127942; Career Highlights
 
@@ -193,7 +168,6 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 </div>
 
-`[Add formal awards, hackathons, or recognitions here once available.]`
 
 ---
 
@@ -211,31 +185,6 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 ---
 
-## &#128202; GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farixdev&show_icons=true&count_private=true&theme=react&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farixdev&theme=react&background=0d1117&border=8b5cf6&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&sideLabels=6366f1&dates=8b949e&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farixdev&layout=compact&langs_count=8&theme=react&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="180"/>
-
-</div>
-
----
-
-
-## &#128200; Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farixdev&theme=react-dark&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
 
 ## &#128013; Contribution Snake
 
@@ -247,26 +196,6 @@ Built and delivered responsive WordPress and Shopify websites, including full e-
 
 ---
 
-## &#127919; Current Focus
-
-```yaml
-Faris Ahmad:
-  learning:
-    - Advanced NestJS & backend architecture
-    - System design & scalable APIs
-  building:
-    - Python automation tooling
-    - Full-stack MERN applications
-  exploring:
-    - Cross-platform apps with Flutter
-    - Cloud deployment & DevOps workflows
-  open_to:
-    - Software Engineering roles
-    - Freelance & automation projects
-    - Open-source collaboration
-```
-
----
 
 ## &#129309; Connect
 

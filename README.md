@@ -186,15 +186,12 @@ Full lifecycle delivery: requirements &rarr; design &rarr; build &rarr; client s
 ---
 
 
-## &#128013; Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/farixdev/farixdev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
 
 
 ## &#129309; Connect
